@@ -5,7 +5,7 @@ SELECT *
 FROM restaurants;
 
 -- Unique restaurants
-
+ 
 SELECT DISTINCT cuisine
 FROM restaurants;
 
