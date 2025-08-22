@@ -38,3 +38,7 @@ WHERE price = '$';
 SELECT *
 FROM restaurants
 WHERE price = '$$$';
+
+-- Delete Table
+
+Drop restaurants
